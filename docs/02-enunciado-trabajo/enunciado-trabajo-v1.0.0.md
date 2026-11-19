@@ -18,7 +18,7 @@
 | Versión | Fecha | Responsable | Descripción | Estado |
 |---|---|---|---|---|
 | v1.0.0 | 18/11/2026 | Solano | Formulación del enunciado y análisis de sus límites a partir del caso de clase. | En elaboración |
-
+| v1.0.0 | 18/11/2026 | Grijalva| Revisión y aprobación interna del Plan del proyecto elaborado por Solano. | Aprobado |
 
 
 ---
