@@ -18,6 +18,7 @@
 | Versión | Fecha | Responsable | Descripción | Estado |
 |---|---|---|---|---|
 | v1.0.0 | 18/11/2026 | Sandoval | Planificación inicial del alcance, presupuesto, recursos, hitos y coordinación del proyecto. | En elaboración |
+ v1.0.0 | 18/11/2026 | Grijalva (líder técnico) | Revisión y aprobación interna del Plan del proyecto elaborado por Sandoval. | Aprobado |
 
 
 
